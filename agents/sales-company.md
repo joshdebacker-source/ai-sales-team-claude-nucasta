@@ -69,6 +69,7 @@ Identify technologies used by the company from:
 - **Meta tags and scripts:** Technology signals visible in page source if WebFetch reveals them
 
 Categorize findings:
+- AI/ML tools
 - CRM/Sales tools
 - Marketing tools
 - Analytics/Data tools
