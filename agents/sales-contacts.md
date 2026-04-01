@@ -51,12 +51,12 @@ For each person found, record:
 
 Based on the product being sold (inferred from ICP or context), identify who would be involved in a purchase decision:
 
-**Typical B2B Buying Committee Roles:**
+**Typical Technology Buying Committee Roles:**
 
 | Role | Who | Importance | Why They Matter |
 |------|-----|-----------|-----------------|
 | **Economic Buyer** | CFO, VP Finance, CEO | Critical | Controls budget, final sign-off |
-| **Technical Buyer** | CTO, VP Engineering, IT Director | Critical | Evaluates technical fit, integration |
+| **Technical Buyer** | CTO, VP Engineering, IT Director | Critical | Evaluates technical fit, integration | AI/ML Director | Innovation Director |
 | **User Buyer** | Team leads, managers who'll use it daily | High | Champions based on daily pain |
 | **Coach/Champion** | Internal advocate at any level | High | Guides you through the process |
 | **Blocker** | Procurement, Legal, Security | Medium | Can slow or kill deals |
