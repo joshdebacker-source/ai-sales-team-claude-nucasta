@@ -38,6 +38,7 @@ Search for and analyze budget indicators:
 
 3. **Current tech spend:** Analyze from job posts, integrations page, and tech stack
    - Many SaaS tools = willingness to pay for software
+   - AI/ML integration = desire for our services
    - Enterprise tools (Salesforce, Workday, etc.) = larger budgets
    - Custom-built tools = may prefer build over buy
 
